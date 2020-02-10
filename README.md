@@ -5,4 +5,4 @@ This viola jones algorithm works on various procedures to detect the face
 2. Adaptive boosting 
 3. Cascading
 
-Most no of haar-like features present in images, face is recognized
+More no of haar-like features present in images, face is recognized
